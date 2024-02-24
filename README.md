@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and React Native**
 
-- 👨‍💻 My resume available at (farhancodefolio.site)
+- 👨‍💻 My resume is available at [farhancodefolio.site](https://farhancodefolio.site).
 
 - 📫 How to reach me **farhanaditya688@gmail.com**
 
